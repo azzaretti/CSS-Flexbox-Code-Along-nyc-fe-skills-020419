@@ -42,5 +42,6 @@ footer {
   margin: 5px;
   background-color: #FCF2EC;
   flex-basis: 100px;
+  flex-grow: 1;
 }
 
