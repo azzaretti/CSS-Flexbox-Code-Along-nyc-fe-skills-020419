@@ -30,7 +30,8 @@ footer {
   display: flex;
   height: 100vh;
   width: 100vw;
-  flex-direction: column;
+  flex-flow: wrap;
+  
 }
 
 .item {
