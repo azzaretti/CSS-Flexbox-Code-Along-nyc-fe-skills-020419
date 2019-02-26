@@ -16,6 +16,7 @@ main {
   height: 100%;
   display: flex;
   flex-direction: row;
+  flex-flow: wrap;
 }
 
 footer {
