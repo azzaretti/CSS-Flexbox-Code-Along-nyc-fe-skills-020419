@@ -30,7 +30,7 @@ footer {
   display: flex;
   height: 100vh;
   width: 100vw;
-  flex-flow: wrap;
+  flex-direction: row;
   
 }
 
