@@ -34,8 +34,8 @@ footer {
 }
 
 .item {
-  height: 100px;
-  width: 100px;
+  height: 100%;
+  width: 100%;
   margin: 5px;
   background-color: #FCF2EC;
   flex-basis: 100px;
